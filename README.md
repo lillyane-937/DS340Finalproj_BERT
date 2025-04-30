@@ -1,6 +1,8 @@
 # DS340Finalproj_BERT
 #Authors: Lilly Anestal and Abigail Merage
-#Instructions to run the project:
+
+
+#This Readme will detail instructions on how to run the project:
 
 
 Downloading the book32 csv file:
