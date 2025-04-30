@@ -18,7 +18,7 @@ Downloading the book32 csv file:
   
   4. Via Terminal/IDE
     - If you do not have Jupyter Notebook Installed, use the command: pip install notebook in your terminal or command prompt.
-    - Navigate tot the dirrectory where the file is located and type "jupyter notebook notebook-name.ipynb". (Note be sure to replace "notebook-name" with the name you gave the actual file name).
+    - Navigate to the dirrectory where the file is located and type "jupyter notebook notebook-name.ipynb". (Note be sure to replace "notebook-name" with the name you gave the actual file name).
     - This will launch the Jupyter Notebook server in your default web browser.
       
 5. Using Python (if you want to the run the .py version)
