@@ -9,7 +9,7 @@ Downloading the book32 csv file:
 - The dataset was extremely large, so github did not allow me to upload it on the repo
 - Here is the link to download the dataset: https://github.com/uchidalab/book-dataset/tree/master/Task2 (its located under the task2 folder)
   
-1. Download the .ipynb/.py file from the repo (The .ipynb file for the BERT model was uploaded on blackboard in case, it was unable to download from Github.) or you can glone the repo but going to your terminal and entering the command: git clone "repo-link" (Note: replace repo link with the actual repo link which you can find by going to code > https> and copying the link. 
+1. Download the .ipynb/.py file from the repo (The .ipynb file for the BERT model was uploaded under Lilly's submission on blackboard in case, it was unable to download from Github.) or you can glone the repo but going to your terminal and entering the command: git clone "repo-link" (Note: replace repo link with the actual repo link which you can find by going to code > https> and copying the link. 
    
 3. Google Colab (recommended)
    - Go to google colab,  select open from the menu options, locate where you stored the Jupyter source file( the .ipynb file) and upload the file onto google colab.
