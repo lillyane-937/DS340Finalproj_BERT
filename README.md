@@ -12,11 +12,11 @@ Downloading the book32 csv file:
 1. Download the .ipynb/.py file from the repo (The .ipynb file for the BERT model was uploaded on blackboard in case, it was unable to download from Github.) or you can glone the repo but going to your terminal and entering the command: git clone "repo-link" (Note: replace repo link with the actual repo link which you can find by going to code > https> and copying the link. 
    
 3. Google Colab (recommended)
-   - Go to google colab,  select open from the menu options, locate where you stored the file and upload the file onto google colab.
+   - Go to google colab,  select open from the menu options, locate where you stored the Jupyter source file( the .ipynb file) and upload the file onto google colab.
      
 4. Jupyter Notebook
    - open jupyter notebook
-   - Navigate to the folder of where you want to upload the file
+   - Navigate to the folder of where you want to upload the jupyter source file
    - Click the upload button and locate the downladed file from your local folder
    - Open the file so it gets uploaded onto jupyter notebook
   
@@ -25,7 +25,7 @@ Downloading the book32 csv file:
     - Navigate to the dirrectory where the file is located and type "jupyter notebook notebook-name.ipynb". (Note be sure to replace "notebook-name" with the name you gave the actual file name).
     - This will launch the Jupyter Notebook server in your default web browser.
       
-6. Using Python (if you want to the run the .py version)
+6. Using Python (if you want to the run the .py python source file )
    - Open any IDE (eg. VS code)
    - Open a new terminal and navigate to the directory where the .py file is saved. You can use the command: cd path/to/the/python/file (according to stack overflow)
    - Run the python script in the command line/bash using the command: !python file.py
