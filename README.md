@@ -1,9 +1,11 @@
 # DS340Finalproj_BERT
+#Authors: Lilly Anestal and Abigail Merage
 #Instructions to run the project:
+
 
 Downloading the book32 csv file:
 - The dataset was extremely large, so github did not allow me to upload it on the repo
-- Here is the link to download the dataset: https://github.com/uchidalab/book-dataset/tree/master/Task1
+- Here is the link to download the dataset: https://github.com/uchidalab/book-dataset/tree/master/Task2 (its located under the task2 folder)
   
 1. Download the .ipynb/.py file from the repo (The .ipynb file was uploaded on blackboard in case, it was unable to download from Github.)
 2. Google Colab (recommended)
